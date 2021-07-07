@@ -1,0 +1,9 @@
+Types of Appointments :-
+
+1) Pending Appointment - When a patient has created an appointment and the doctor has yet not accepted that appointment, then the appointment status is "pending".
+
+2) Confirmed Appointment - When a doctor has confirmed that appointment and appointment date and time is given to the patient, then appointment status is "confirmed".
+
+3) Cancelled Appointment - When a doctor cancels/rejects the appointment, then appointment status is "cancelled".
+
+4) Checked Appointment - When a doctor has written the prescription for that patient's complaint, then appointments status is "checked".
