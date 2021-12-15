@@ -1,3 +1,4 @@
+// Testing
 Types of Appointments :-
 
 1) Pending Appointment - When a patient has created an appointment and the doctor has yet not accepted that appointment, then the appointment status is "pending".
